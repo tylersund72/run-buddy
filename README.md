@@ -12,3 +12,5 @@ https://tylersund72.github.io/run-buddy/
 
 ## Contribution
 Made with love by Tyler Sundquist
+
+### ©️2019 Run Buddy, Inc 
